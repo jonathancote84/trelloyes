@@ -36,5 +36,13 @@ export default{
       'l': { title: 'Twelth card', content: 'lorem ipsum' },
       'm': { title: 'Thirteenth card', content: 'lorem ipsum' },
     },
+    testCards: [
+       { title: 'First card', content: 'lorem ipsum' },
+       { title: 'Second card', content: 'lorem ipsum' },
+       { title: 'Third card', content: 'lorem ipsum' },
+       { title: 'Fourth card', content: 'lorem ipsum' },
+       { title: 'Fifth card', content: 'lorem ipsum' },
+       { title: 'Sixth card', content: 'lorem ipsum' },
+    ]
   }
 
